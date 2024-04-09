@@ -57,7 +57,7 @@ async def userinfo(interaction: discord.Interaction, member: discord.Member):
         color=discord.Color.yellow(),  # Farbe des Embeds
     )
     userinfo_embed.add_field(name="Das Ergebnis:", value="Einen Moment...", inline=True)
-bot.run('MTE2NjAwNjE2NzY1OTYxODM4NQ.GOm-w4.MgCxHgpd_nEo8sYSs295f4U82FIQfGkR1tL1Ls')
+bot.run('some discord bot token') # Hier wäre dann das Discord-Bot-Token...
 
 
 
